@@ -86,7 +86,7 @@ function Footer() {
               <h1>E:</h1>
               <br />
               <a className="block" href="#">
-                <u>hello@rahul.design</u>
+                <u>hello@pradu.design</u>
               </a>
             </div>
           </div>
